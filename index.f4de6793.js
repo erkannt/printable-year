@@ -1,0 +1,1 @@
+const e=document.querySelector("#appContainer");e&&(e.textContent="Hello");
